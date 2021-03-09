@@ -1,0 +1,604 @@
+fileFormatVersion: 2
+guid: 9eeac21c4517e524b8b583c4eade1c3c
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -65780192017659653
+    second: Camera.008|Camera.001Action.003
+  - first:
+      74: 3834933712019886436
+    second: Camera.008|Mesh145 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -1219746708500577439
+    second: Camera.008|Mesh172 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 8026906503429299382
+    second: Camera.008|Mesh173 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -4839113404599816144
+    second: Camera.008|Mesh174 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 7093816092315572219
+    second: Camera.008|Mesh175 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 6959888979698444749
+    second: Camera.008|Mesh176 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 7040439768463694824
+    second: Camera.008|Mesh177 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -5627076960993883300
+    second: Camera.008|Mesh178 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -7476811904458977822
+    second: Camera.008|Mesh179 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 1062667459902689132
+    second: Camera.008|Mesh65 Group3 G_3D_HP4_DWG1 ModelAction
+  - first:
+      74: 5624863737536932582
+    second: Camera.008|Mesh67 Group4 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -4052610082807348219
+    second: Camera.008|Mesh71 Group5 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -8693989831282807918
+    second: Mesh65 Group3 G_3D_HP4_DWG1 Model|Camera.001Action.003
+  - first:
+      74: -2858304399861382951
+    second: Mesh65 Group3 G_3D_HP4_DWG1 Model|Mesh145 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -1744912481387875751
+    second: Mesh65 Group3 G_3D_HP4_DWG1 Model|Mesh172 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 5562046971807993828
+    second: Mesh65 Group3 G_3D_HP4_DWG1 Model|Mesh173 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 4704068052670511708
+    second: Mesh65 Group3 G_3D_HP4_DWG1 Model|Mesh174 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -4362319332774786115
+    second: Mesh65 Group3 G_3D_HP4_DWG1 Model|Mesh175 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -4605538605050567597
+    second: Mesh65 Group3 G_3D_HP4_DWG1 Model|Mesh176 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 190381900203039138
+    second: Mesh65 Group3 G_3D_HP4_DWG1 Model|Mesh177 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 5381821906382754287
+    second: Mesh65 Group3 G_3D_HP4_DWG1 Model|Mesh178 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 7888833062421608906
+    second: Mesh65 Group3 G_3D_HP4_DWG1 Model|Mesh179 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 2990533256716864723
+    second: Mesh65 Group3 G_3D_HP4_DWG1 Model|Mesh65 Group3 G_3D_HP4_DWG1 ModelAction
+  - first:
+      74: -2478418851567298666
+    second: Mesh65 Group3 G_3D_HP4_DWG1 Model|Mesh67 Group4 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 744314534127350287
+    second: Mesh65 Group3 G_3D_HP4_DWG1 Model|Mesh71 Group5 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -2536617678180050959
+    second: Mesh67 Group4 G_3D_H3G_DWG1 Model|Camera.001Action.003
+  - first:
+      74: -7706683652220386267
+    second: Mesh67 Group4 G_3D_H3G_DWG1 Model|Mesh145 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 3557752831803739864
+    second: Mesh67 Group4 G_3D_H3G_DWG1 Model|Mesh172 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 8339854024314292268
+    second: Mesh67 Group4 G_3D_H3G_DWG1 Model|Mesh173 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 7382532513951816627
+    second: Mesh67 Group4 G_3D_H3G_DWG1 Model|Mesh174 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 2193767747808589957
+    second: Mesh67 Group4 G_3D_H3G_DWG1 Model|Mesh175 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -258466964665689957
+    second: Mesh67 Group4 G_3D_H3G_DWG1 Model|Mesh176 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -7198969298659782193
+    second: Mesh67 Group4 G_3D_H3G_DWG1 Model|Mesh177 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 4878252646428367668
+    second: Mesh67 Group4 G_3D_H3G_DWG1 Model|Mesh178 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -5234309354544170214
+    second: Mesh67 Group4 G_3D_H3G_DWG1 Model|Mesh179 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -7463567688322451521
+    second: Mesh67 Group4 G_3D_H3G_DWG1 Model|Mesh65 Group3 G_3D_HP4_DWG1 ModelAction
+  - first:
+      74: 2567715411966188999
+    second: Mesh67 Group4 G_3D_H3G_DWG1 Model|Mesh67 Group4 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -4187683337506296358
+    second: Mesh67 Group4 G_3D_H3G_DWG1 Model|Mesh71 Group5 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -520218749115095330
+    second: Mesh71 Group5 G_3D_H3G_DWG1 Model|Camera.001Action.003
+  - first:
+      74: 8908683661346195025
+    second: Mesh71 Group5 G_3D_H3G_DWG1 Model|Mesh145 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -5106510777830884773
+    second: Mesh71 Group5 G_3D_H3G_DWG1 Model|Mesh172 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 2121127527039272045
+    second: Mesh71 Group5 G_3D_H3G_DWG1 Model|Mesh173 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 5853422246630422681
+    second: Mesh71 Group5 G_3D_H3G_DWG1 Model|Mesh174 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 3187543049312462725
+    second: Mesh71 Group5 G_3D_H3G_DWG1 Model|Mesh175 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 4819348712884617587
+    second: Mesh71 Group5 G_3D_H3G_DWG1 Model|Mesh176 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -5033279096204570837
+    second: Mesh71 Group5 G_3D_H3G_DWG1 Model|Mesh177 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -3015105318102684456
+    second: Mesh71 Group5 G_3D_H3G_DWG1 Model|Mesh178 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -1507777329697855626
+    second: Mesh71 Group5 G_3D_H3G_DWG1 Model|Mesh179 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 2052954463125357647
+    second: Mesh71 Group5 G_3D_H3G_DWG1 Model|Mesh65 Group3 G_3D_HP4_DWG1 ModelAction
+  - first:
+      74: -8797442586466808252
+    second: Mesh71 Group5 G_3D_H3G_DWG1 Model|Mesh67 Group4 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -5920563351578561648
+    second: Mesh71 Group5 G_3D_H3G_DWG1 Model|Mesh71 Group5 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 3872440451938914921
+    second: Mesh145 Group6 G_3D_H3G_DWG1 Model|Camera.001Action.003
+  - first:
+      74: 223318459246419399
+    second: Mesh145 Group6 G_3D_H3G_DWG1 Model|Mesh145 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 8818587411490731951
+    second: Mesh145 Group6 G_3D_H3G_DWG1 Model|Mesh172 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -6474475908117441212
+    second: Mesh145 Group6 G_3D_H3G_DWG1 Model|Mesh173 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -2521775333234417663
+    second: Mesh145 Group6 G_3D_H3G_DWG1 Model|Mesh174 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 9138551469002765841
+    second: Mesh145 Group6 G_3D_H3G_DWG1 Model|Mesh175 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -1614666597057078548
+    second: Mesh145 Group6 G_3D_H3G_DWG1 Model|Mesh176 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 7553615595619084693
+    second: Mesh145 Group6 G_3D_H3G_DWG1 Model|Mesh177 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 2795135067420268979
+    second: Mesh145 Group6 G_3D_H3G_DWG1 Model|Mesh178 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -6097540914873414740
+    second: Mesh145 Group6 G_3D_H3G_DWG1 Model|Mesh179 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -2300281304832278794
+    second: Mesh145 Group6 G_3D_H3G_DWG1 Model|Mesh65 Group3 G_3D_HP4_DWG1 ModelAction
+  - first:
+      74: -6934438469893013950
+    second: Mesh145 Group6 G_3D_H3G_DWG1 Model|Mesh67 Group4 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -8227661914943131606
+    second: Mesh145 Group6 G_3D_H3G_DWG1 Model|Mesh71 Group5 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 4037491589007456611
+    second: Mesh172 Group6 G_3D_H3G_DWG1 Model|Camera.001Action.003
+  - first:
+      74: 7668643077006007562
+    second: Mesh172 Group6 G_3D_H3G_DWG1 Model|Mesh145 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 9163506988885103134
+    second: Mesh172 Group6 G_3D_H3G_DWG1 Model|Mesh172 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 34151275270216206
+    second: Mesh172 Group6 G_3D_H3G_DWG1 Model|Mesh173 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 8338134841910956837
+    second: Mesh172 Group6 G_3D_H3G_DWG1 Model|Mesh174 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -2378161515952103543
+    second: Mesh172 Group6 G_3D_H3G_DWG1 Model|Mesh175 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 6097649616242108977
+    second: Mesh172 Group6 G_3D_H3G_DWG1 Model|Mesh176 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -3245532750594971790
+    second: Mesh172 Group6 G_3D_H3G_DWG1 Model|Mesh177 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -897610079589472370
+    second: Mesh172 Group6 G_3D_H3G_DWG1 Model|Mesh178 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -4619911419198475379
+    second: Mesh172 Group6 G_3D_H3G_DWG1 Model|Mesh179 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 7165978771814768440
+    second: Mesh172 Group6 G_3D_H3G_DWG1 Model|Mesh65 Group3 G_3D_HP4_DWG1 ModelAction
+  - first:
+      74: 6934996782980204742
+    second: Mesh172 Group6 G_3D_H3G_DWG1 Model|Mesh67 Group4 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 850745872447699604
+    second: Mesh172 Group6 G_3D_H3G_DWG1 Model|Mesh71 Group5 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 5735492908332622472
+    second: Mesh173 Group6 G_3D_H3G_DWG1 Model|Camera.001Action.003
+  - first:
+      74: 2979190143000016052
+    second: Mesh173 Group6 G_3D_H3G_DWG1 Model|Mesh145 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 5746680643214607132
+    second: Mesh173 Group6 G_3D_H3G_DWG1 Model|Mesh172 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 5476048505894655958
+    second: Mesh173 Group6 G_3D_H3G_DWG1 Model|Mesh173 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -7939496499461920613
+    second: Mesh173 Group6 G_3D_H3G_DWG1 Model|Mesh174 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -4654979659390626679
+    second: Mesh173 Group6 G_3D_H3G_DWG1 Model|Mesh175 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 6315060473539988417
+    second: Mesh173 Group6 G_3D_H3G_DWG1 Model|Mesh176 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 1124496357461012259
+    second: Mesh173 Group6 G_3D_H3G_DWG1 Model|Mesh177 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -8810054808649423162
+    second: Mesh173 Group6 G_3D_H3G_DWG1 Model|Mesh178 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -6948088632865123559
+    second: Mesh173 Group6 G_3D_H3G_DWG1 Model|Mesh179 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 7316162480113691266
+    second: Mesh173 Group6 G_3D_H3G_DWG1 Model|Mesh65 Group3 G_3D_HP4_DWG1 ModelAction
+  - first:
+      74: 1491762718662423500
+    second: Mesh173 Group6 G_3D_H3G_DWG1 Model|Mesh67 Group4 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -3006067126788843610
+    second: Mesh173 Group6 G_3D_H3G_DWG1 Model|Mesh71 Group5 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 8636326181481244096
+    second: Mesh174 Group6 G_3D_H3G_DWG1 Model|Camera.001Action.003
+  - first:
+      74: 4701444715598984270
+    second: Mesh174 Group6 G_3D_H3G_DWG1 Model|Mesh145 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 4938817181602024625
+    second: Mesh174 Group6 G_3D_H3G_DWG1 Model|Mesh172 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -5770922847152734075
+    second: Mesh174 Group6 G_3D_H3G_DWG1 Model|Mesh173 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 2076137939337271218
+    second: Mesh174 Group6 G_3D_H3G_DWG1 Model|Mesh174 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -7311769533842860411
+    second: Mesh174 Group6 G_3D_H3G_DWG1 Model|Mesh175 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -3780873496725152754
+    second: Mesh174 Group6 G_3D_H3G_DWG1 Model|Mesh176 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 7790064740995360097
+    second: Mesh174 Group6 G_3D_H3G_DWG1 Model|Mesh177 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -3358449472200602221
+    second: Mesh174 Group6 G_3D_H3G_DWG1 Model|Mesh178 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -1151445762699007051
+    second: Mesh174 Group6 G_3D_H3G_DWG1 Model|Mesh179 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -2422386107493484578
+    second: Mesh174 Group6 G_3D_H3G_DWG1 Model|Mesh65 Group3 G_3D_HP4_DWG1 ModelAction
+  - first:
+      74: 2596679249272330836
+    second: Mesh174 Group6 G_3D_H3G_DWG1 Model|Mesh67 Group4 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -4971899422212924483
+    second: Mesh174 Group6 G_3D_H3G_DWG1 Model|Mesh71 Group5 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -4117682885248564292
+    second: Mesh175 Group6 G_3D_H3G_DWG1 Model|Camera.001Action.003
+  - first:
+      74: 2610389002005487171
+    second: Mesh175 Group6 G_3D_H3G_DWG1 Model|Mesh145 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -3909832230231978030
+    second: Mesh175 Group6 G_3D_H3G_DWG1 Model|Mesh172 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -4070845236566545714
+    second: Mesh175 Group6 G_3D_H3G_DWG1 Model|Mesh173 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -7580248188656043023
+    second: Mesh175 Group6 G_3D_H3G_DWG1 Model|Mesh174 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -6614229666129806044
+    second: Mesh175 Group6 G_3D_H3G_DWG1 Model|Mesh175 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 3350265144414905047
+    second: Mesh175 Group6 G_3D_H3G_DWG1 Model|Mesh176 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 7588513312401608921
+    second: Mesh175 Group6 G_3D_H3G_DWG1 Model|Mesh177 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -1355159383186281366
+    second: Mesh175 Group6 G_3D_H3G_DWG1 Model|Mesh178 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 4450815434437947854
+    second: Mesh175 Group6 G_3D_H3G_DWG1 Model|Mesh179 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 427190017412073855
+    second: Mesh175 Group6 G_3D_H3G_DWG1 Model|Mesh65 Group3 G_3D_HP4_DWG1 ModelAction
+  - first:
+      74: -5469521903871532954
+    second: Mesh175 Group6 G_3D_H3G_DWG1 Model|Mesh67 Group4 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 4150021730831939974
+    second: Mesh175 Group6 G_3D_H3G_DWG1 Model|Mesh71 Group5 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 7788614914295411513
+    second: Mesh176 Group6 G_3D_H3G_DWG1 Model|Camera.001Action.003
+  - first:
+      74: -1129167500445316338
+    second: Mesh176 Group6 G_3D_H3G_DWG1 Model|Mesh145 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -5760201773004400460
+    second: Mesh176 Group6 G_3D_H3G_DWG1 Model|Mesh172 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -6312174267799942641
+    second: Mesh176 Group6 G_3D_H3G_DWG1 Model|Mesh173 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -821360073939216632
+    second: Mesh176 Group6 G_3D_H3G_DWG1 Model|Mesh174 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -3978093872194051388
+    second: Mesh176 Group6 G_3D_H3G_DWG1 Model|Mesh175 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 176338458012973868
+    second: Mesh176 Group6 G_3D_H3G_DWG1 Model|Mesh176 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -3390702929107023583
+    second: Mesh176 Group6 G_3D_H3G_DWG1 Model|Mesh177 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 1962822717013903134
+    second: Mesh176 Group6 G_3D_H3G_DWG1 Model|Mesh178 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 899882288304191751
+    second: Mesh176 Group6 G_3D_H3G_DWG1 Model|Mesh179 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -6101799719714419952
+    second: Mesh176 Group6 G_3D_H3G_DWG1 Model|Mesh65 Group3 G_3D_HP4_DWG1 ModelAction
+  - first:
+      74: 8294524540688319746
+    second: Mesh176 Group6 G_3D_H3G_DWG1 Model|Mesh67 Group4 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 9121567356153736184
+    second: Mesh176 Group6 G_3D_H3G_DWG1 Model|Mesh71 Group5 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 2924749028852860020
+    second: Mesh177 Group6 G_3D_H3G_DWG1 Model|Camera.001Action.003
+  - first:
+      74: -4776136269213422642
+    second: Mesh177 Group6 G_3D_H3G_DWG1 Model|Mesh145 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 4008658172452043588
+    second: Mesh177 Group6 G_3D_H3G_DWG1 Model|Mesh172 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -8308513430470835963
+    second: Mesh177 Group6 G_3D_H3G_DWG1 Model|Mesh173 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -1403227966782571490
+    second: Mesh177 Group6 G_3D_H3G_DWG1 Model|Mesh174 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 4549911456222367963
+    second: Mesh177 Group6 G_3D_H3G_DWG1 Model|Mesh175 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 8322715440401617339
+    second: Mesh177 Group6 G_3D_H3G_DWG1 Model|Mesh176 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -5186694537495152537
+    second: Mesh177 Group6 G_3D_H3G_DWG1 Model|Mesh177 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 637272988602800643
+    second: Mesh177 Group6 G_3D_H3G_DWG1 Model|Mesh178 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 2961255049138355105
+    second: Mesh177 Group6 G_3D_H3G_DWG1 Model|Mesh179 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -6722834574315369430
+    second: Mesh177 Group6 G_3D_H3G_DWG1 Model|Mesh65 Group3 G_3D_HP4_DWG1 ModelAction
+  - first:
+      74: 2657034652494215374
+    second: Mesh177 Group6 G_3D_H3G_DWG1 Model|Mesh67 Group4 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -5579503347563704158
+    second: Mesh177 Group6 G_3D_H3G_DWG1 Model|Mesh71 Group5 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -8103451168029912241
+    second: Mesh178 Group6 G_3D_H3G_DWG1 Model|Camera.001Action.003
+  - first:
+      74: -3342542426191724287
+    second: Mesh178 Group6 G_3D_H3G_DWG1 Model|Mesh145 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 7653767144997415533
+    second: Mesh178 Group6 G_3D_H3G_DWG1 Model|Mesh172 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 7784217069644464759
+    second: Mesh178 Group6 G_3D_H3G_DWG1 Model|Mesh173 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 2093056024303278844
+    second: Mesh178 Group6 G_3D_H3G_DWG1 Model|Mesh174 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -3467616030706324949
+    second: Mesh178 Group6 G_3D_H3G_DWG1 Model|Mesh175 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 5705658948596428265
+    second: Mesh178 Group6 G_3D_H3G_DWG1 Model|Mesh176 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -6737690751462872385
+    second: Mesh178 Group6 G_3D_H3G_DWG1 Model|Mesh177 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 7901757041830210192
+    second: Mesh178 Group6 G_3D_H3G_DWG1 Model|Mesh178 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -3923880590784974391
+    second: Mesh178 Group6 G_3D_H3G_DWG1 Model|Mesh179 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -1876319724584635648
+    second: Mesh178 Group6 G_3D_H3G_DWG1 Model|Mesh65 Group3 G_3D_HP4_DWG1 ModelAction
+  - first:
+      74: 6860482996824260310
+    second: Mesh178 Group6 G_3D_H3G_DWG1 Model|Mesh67 Group4 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -2183198699568218387
+    second: Mesh178 Group6 G_3D_H3G_DWG1 Model|Mesh71 Group5 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -5075201349323643479
+    second: Mesh179 Group6 G_3D_H3G_DWG1 Model|Camera.001Action.003
+  - first:
+      74: -190093959325706672
+    second: Mesh179 Group6 G_3D_H3G_DWG1 Model|Mesh145 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -5260499253385118283
+    second: Mesh179 Group6 G_3D_H3G_DWG1 Model|Mesh172 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 2147721882236266597
+    second: Mesh179 Group6 G_3D_H3G_DWG1 Model|Mesh173 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 5491284678797044565
+    second: Mesh179 Group6 G_3D_H3G_DWG1 Model|Mesh174 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 7736206976991671340
+    second: Mesh179 Group6 G_3D_H3G_DWG1 Model|Mesh175 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -4311907601473417739
+    second: Mesh179 Group6 G_3D_H3G_DWG1 Model|Mesh176 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -7916562236592559316
+    second: Mesh179 Group6 G_3D_H3G_DWG1 Model|Mesh177 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 3630424860690156291
+    second: Mesh179 Group6 G_3D_H3G_DWG1 Model|Mesh178 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -144698385927809636
+    second: Mesh179 Group6 G_3D_H3G_DWG1 Model|Mesh179 Group6 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: -6364134004379319522
+    second: Mesh179 Group6 G_3D_H3G_DWG1 Model|Mesh65 Group3 G_3D_HP4_DWG1 ModelAction
+  - first:
+      74: -3338663416586016723
+    second: Mesh179 Group6 G_3D_H3G_DWG1 Model|Mesh67 Group4 G_3D_H3G_DWG1 ModelAction
+  - first:
+      74: 1634362902798181891
+    second: Mesh179 Group6 G_3D_H3G_DWG1 Model|Mesh71 Group5 G_3D_H3G_DWG1 ModelAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
